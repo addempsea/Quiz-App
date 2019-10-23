@@ -1,0 +1,27 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* .header {
+    font-style: oblique;
+    color: aquamarine;
+    font-size: 32px;
+} */
+
+body {
+    font-size: 12px;
+    color :gold;
+    margin: 4em 18em;
+    background: url(/407973-minified-knowledge-color_codes-minimalism-pixels-world-748x421.jpg);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+button {
+    border: 1px solid #acacac;
+    box-shadow: 3px 3px 10px rgba(000,000,000,0.16);
+    border-radius: 10px;
+    padding: 0 1.4em;
+        
+}
